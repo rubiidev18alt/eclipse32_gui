@@ -1,0 +1,2 @@
+add stdin support:
+in in the other versions it was a shell vga text mode so the stdin ran as same  loop but in this the desktop also runs so this will be added in next patch
